@@ -1,0 +1,14 @@
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\MainWindow.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\App.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance_MarkupCompile.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance_MarkupCompile.lref
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\MainWindow.baml
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.g.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.Cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Pearson\H11-Overerving\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
